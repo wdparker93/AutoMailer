@@ -1,4 +1,3 @@
-#Automatic clip-board messaging using pyperclip
 
 #! python3
 # autoMail.py - Loops through a dictionary of subjects and bodies for emails and automatically sends them to a specified recipient
